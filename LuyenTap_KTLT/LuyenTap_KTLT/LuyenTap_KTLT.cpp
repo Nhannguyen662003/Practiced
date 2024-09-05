@@ -1,35 +1,35 @@
-#define _CRT_SECURE_NO_WARNINGS
+﻿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <conio.h>
 
-struct PhanSo 
-{
-	int tu, mau;
+void chiaHaiSo(int* a, int* b, int* ketQua, int* phanDu) {
+    if (*b != 0) {
+        *ketQua = *a / *b;    // Chia lấy phần nguyên
+        *phanDu = *a % *b;     // Chia lấy phần dư
+    }
+    else {
+        printf("Loi: Khong the chia cho 0.\n");
+    }
+}
 
-	
-};
+int main() {
+    int a, b, ketQua, phanDu;
 
-void main()
-{
-	PhanSo ps1, * ps2 = &ps1;
-	ps1.tu = 1; ps1.mau = 2;
-	ps2->tu = 1; ps2->mau = 2;
+    // Nhập vào hai số nguyên
+    printf("Nhap vao so nguyen a: ");
+    scanf("%d", &a);
+    printf("Nhap vao so nguyen b: ");
+    scanf("%d", &b);
 
-	int a = 0, b = 0;
-	int t;
-	printf("Nhap a va b: ");
-	scanf("%d%d", &a, &b);
-	try {
-		if (b == 0)
-			throw"So chia khong duoc la 0";
-		else
-			t = a / b;		
-	}
+    // Gọi hàm chia hai số sử dụng con trỏ
+    chiaHaiSo(&a, &b, &ketQua, &phanDu);
 
-	catch (const char* st)
-	{
-		printf("Loi: %s", st);
-	}
-	_getch();
+    // Nếu b khác 0, in ra kết quả
+    if (b != 0) {
+        printf("Ket qua phep chia %d / %d = %d\n", a, b, ketQua);
+        printf("Phan du = %d\n", phanDu);
+    }
+
+    return 0;
 }
 
