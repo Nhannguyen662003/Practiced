@@ -18,5 +18,8 @@
     <ClCompile Include="LuyenTap_KTLT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Recode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

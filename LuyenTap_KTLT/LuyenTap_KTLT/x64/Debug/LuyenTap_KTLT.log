@@ -1,2 +1,4 @@
-﻿  LuyenTap_KTLT.cpp
+﻿  Recode.cpp
+D:\HK Summer\KT_LT\Practiced\LuyenTap_KTLT\LuyenTap_KTLT\Recode.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\HK Summer\KT_LT\Practiced\LuyenTap_KTLT\LuyenTap_KTLT\Recode.cpp(33,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   LuyenTap_KTLT.vcxproj -> D:\HK Summer\KT_LT\Practiced\LuyenTap_KTLT\x64\Debug\LuyenTap_KTLT.exe
