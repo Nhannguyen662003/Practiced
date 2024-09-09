@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F467765-EF03-4F18-9E55-0264FD8C9BAA}|LuyenTap_KTLT\\LuyenTap_KTLT.vcxproj|D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5F467765-EF03-4F18-9E55-0264FD8C9BAA}|LuyenTap_KTLT\\LuyenTap_KTLT.vcxproj|solutionrelative:LuyenTap_KTLT\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5F467765-EF03-4F18-9E55-0264FD8C9BAA}|LuyenTap_KTLT\\LuyenTap_KTLT.vcxproj|D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\Recode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F467765-EF03-4F18-9E55-0264FD8C9BAA}|LuyenTap_KTLT\\LuyenTap_KTLT.vcxproj|solutionrelative:LuyenTap_KTLT\\Recode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,40 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\Source.cpp",
-              "RelativeDocumentMoniker": "LuyenTap_KTLT\\Source.cpp",
-              "ToolTip": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\Source.cpp",
-              "RelativeToolTip": "LuyenTap_KTLT\\Source.cpp",
-              "ViewState": "AQIAAC4BAAAAAAAAAAAowE0BAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-07T17:38:57.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Recode.cpp",
               "DocumentMoniker": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\Recode.cpp",
               "RelativeDocumentMoniker": "LuyenTap_KTLT\\Recode.cpp",
               "ToolTip": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\Recode.cpp",
               "RelativeToolTip": "LuyenTap_KTLT\\Recode.cpp",
-              "ViewState": "AQIAAB8BAAAAAAAAAAAowD0BAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEoBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-05T03:31:02.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LuyenTap_KTLT.cpp",
               "DocumentMoniker": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\LuyenTap_KTLT.cpp",
               "RelativeDocumentMoniker": "LuyenTap_KTLT\\LuyenTap_KTLT.cpp",
               "ToolTip": "D:\\HK Summer\\New folder\\Practiced\\LuyenTap_KTLT\\LuyenTap_KTLT\\LuyenTap_KTLT.cpp",
               "RelativeToolTip": "LuyenTap_KTLT\\LuyenTap_KTLT.cpp",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAewKAAAAABAAAA",
+              "ViewState": "AQIAALkAAAAAAAAAAAAewKAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-04T15:43:00.066Z"
+              "WhenOpened": "2024-09-04T15:43:00.066Z",
+              "EditorCaption": ""
             }
           ]
         }
